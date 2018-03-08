@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Suma2numeros_v0</string>
+    <string name="num1">Numero1:</string>
+    <string name="num2">Numero2:</string>
+    <string name="resultado">Resultado?</string>
+    <string name="operacion">Calcular</string>
+    <string-array name="ops_array">
+        <item>Suma</item>
+        <item>Resta</item>
+        <item>Multiplicacion</item>
+        <item>Division</item>
+    </string-array>
+</resources>
