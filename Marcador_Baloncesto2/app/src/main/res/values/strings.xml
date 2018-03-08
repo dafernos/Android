@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Marcador_Baloncesto2</string>
+    <string name="separador">-</string>
+    <string name="puntuacion_inicial">0</string>
+    <string name="visitante">VISITANTE</string>
+    <string name="local">LOCAL</string>
+    <string name="ultimajugada">Eliminar Ultima Jugada</string>
+    <string name="tiro_libre">LIBRE</string>
+    <string name="dobre">DOBLE</string>
+    <string name="tiro_triple">TRIPLE</string>
+    <string name="bttn">INICIAR</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cookies</string>
+    <string name="hambre">I\'m so hungry</string>
+    <string name="boton">EAT COOKIE</string>
+    <string name="todo">TODO</string>
+</resources>

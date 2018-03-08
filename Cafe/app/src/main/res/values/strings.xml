@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Un café</string>
+    <string name="chk1">Crema</string>
+    <string name="chk2">Chocolate</string>
+    <string name="nombre">Nombre</string>
+    <string name="lbl1">TOPPINGS</string>
+    <string name="cantidad">CANTIDAD</string>
+    <string name="suma">+</string>
+    <string name="resta">-</string>
+    <string name="valorinicial">0</string>
+    <string name="submit1">ORDER</string>
+</resources>

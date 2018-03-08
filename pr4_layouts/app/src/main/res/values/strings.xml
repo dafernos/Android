@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">pr4_layouts</string>
+    <string name="checkbox">Suscribirse por e-mail</string>
+    <string name="nombre">Nombre(*)</string>
+    <string name="apellido">Apellido(*)</string>
+    <string name="email">e-mail (*)</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="pagina">elpais.com</string>
+    <string name="text1">text1: This is some text.In this text are some things that are actionable. For instabce you can click on www.google.com and it will launch the web browser. You can click on google.com too. And, if you click an (415) 555-1212 it should dial the fone. iesgrancapitan.org</string>
+    <string name="confirmar">CONFIRMAR</string>
+    <string name="cancelar">CANCELAR</string>
+</resources>
