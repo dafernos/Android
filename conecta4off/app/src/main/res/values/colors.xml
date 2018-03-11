@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#485ed2</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="negro">#c3000000</color>
+    <color name="amarillo">#e6e656</color>
+    <color name="rojo">#e45757</color>
+    <color name="tablero">#5f78fd</color>
+</resources>
